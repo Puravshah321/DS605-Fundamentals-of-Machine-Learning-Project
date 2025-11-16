@@ -1,10 +1,10 @@
 # FUSEX – Sampling Technique Comparison
 
 ## Collaborators
-- Mannan Aggrawal  
-- Purav Shah  
-- Jay Salot  
-- Neel Shah  
+- Mannan Aggrawal (202518013)  
+- Purav Shah  (202518020)
+- Jay Salot  (202518029)
+- Neel Shah  (202518044)
 
 ---
 
